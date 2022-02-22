@@ -1,3 +1,4 @@
 historia
 esta es el comienzo de git
 aprendiendo el manejo de los comandos
+los comandos son esceciales aprender para el manejo de git
