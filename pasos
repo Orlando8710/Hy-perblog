@@ -1,2 +1,9 @@
 git pwd revision de ubicacion
-git int inicia rl modelado del git
+git int inicia el repositorio del git
+git add adiccionar al repositorio
+git commit cargar al repositorio-master
+git status revisar el status del archivo
+git log ver cambios del archivo
+git diff ver cambios con el id de las distintas versiones
+git rm para eliminar archivos, ojo con este comando puede borrar el diaco
+git config entra a la configuracion de git
