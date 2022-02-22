@@ -7,3 +7,7 @@ git log ver cambios del archivo
 git diff ver cambios con el id de las distintas versiones
 git rm para eliminar archivos, ojo con este comando puede borrar el diaco
 git config entra a la configuracion de git
+cat nombre achivo, seve en la consola
+mkdir crea carpeta
+touch crea archivo
+ls -al lista de docuemntos en la carpeta 
