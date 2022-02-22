@@ -1,2 +1,3 @@
 historia
 esta es el comienzo de git
+aprendiendo el manejo de los comandos
