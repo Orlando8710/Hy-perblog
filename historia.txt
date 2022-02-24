@@ -3,3 +3,5 @@ estamos en el comienzo de git
 aprendiendo el manejo de los comandos
 los comandos son escenciales aprender para el manejo de git
 revisando los comandos.
+
+control de aprendizaje
